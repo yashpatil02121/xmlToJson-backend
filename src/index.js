@@ -13,7 +13,8 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",              // local dev
-      "https://xmltojson-frontend.onrender.com" // deployed frontend
+      "https://accurate-energy-solutions.vercel.app", // deployed frontend
+      "https://xml-to-json-frontend.vercel.app/"
     ],
     methods: ["GET", "POST"],
     allowedHeaders: ["Content-Type"],
