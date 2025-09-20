@@ -7,11 +7,6 @@
         {
           "_id": "001",
           "_available": "true",
-          "title": "The Great Adventure",
-          "author": "Jane Smith",
-          "isbn": "978-0123456789",
-          "genre": "Fiction",
-          "pages": "342",
           "description": "A thrilling tale of discovery and courage in the Amazon rainforest."
         },
         {
